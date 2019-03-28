@@ -1,0 +1,39 @@
+body {
+  min-width: 500px;
+}
+
+header {
+  background: #3981a7;
+  color: #fff !important;
+  height: 60px;
+  position: sticky;
+  top: 0;
+  z-index: 1020 !important;
+}
+
+.typcn {
+  font-size: 20px;
+}
+
+.dataTables_length select {
+  width: 50px;
+  height: 25px;
+}
+
+.dataTables_filter input {
+  height: 22px !important;
+}
+
+.dataTables_paginate a{
+  padding: 0px 3px !important;
+  border: 1px solid #979797 !important;
+}
+
+.dataTables_info {
+  font-size: 10px;
+  padding-top: 0px !important;
+}
+
+table > tbody > tr:hover{
+  background: #D6E5E7;;
+}
